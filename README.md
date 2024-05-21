@@ -1,2 +1,1 @@
-# newgitrepo
-new repo
+This is a project on Stowatch .
