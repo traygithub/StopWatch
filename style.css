@@ -1,0 +1,53 @@
+body{
+
+background: #09b77c;
+font-family: sans-serif;
+height: 100%;
+}
+
+
+.container{
+
+ width: 800px;
+margin: 30px auto;
+ color: white;
+ text-align: center;
+}
+
+/*#seconds,#tens{
+
+font-size: 2rem;
+background-color: black;
+
+padding: 20px 24px;
+}*/
+
+
+#timerdisplay{
+
+font-size: 2rem;
+background-color: black;
+padding: 20px 24px;
+
+}
+
+button{
+
+width: 150px;
+height: 60px;
+background-color: transparent;
+margin:15px auto ;
+color: white;
+border-radius: 15px;
+margin-right: 10px;
+outline: none;
+}
+
+button:hover{
+ background-color: white;
+ color: #09b77c;
+ font-weight: 800;
+ text-transform: capitalize;
+}
+
+/*--end -------*/
